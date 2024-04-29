@@ -21,6 +21,7 @@
     outline:none;
     border:0;
     background-color:white;
+    cursor:pointer;
 }
 .popup{
     position:absolute;
@@ -64,4 +65,5 @@
     color:white;
     border-radius:5px;
     box-shadow:0 5px 5px rgba(0,0,0,.2)
+    cursor:pointer;
 }
